@@ -11,7 +11,7 @@ env:
   RESOURCE_GROUP_NAME: SBS_AMC_System
 
   # specify your preferred region
-  REGION: southeastasia
+  REGION: eastasia
 
   STORE_DOCKER: Store/Dockerfile
   STORE_IMAGE: store
